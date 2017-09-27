@@ -1,0 +1,20 @@
+{
+  "name": "browser-input-file-list",
+  "version": "1.0.0",
+  "description": "Library for handling files selected in the browser on a web page form.",
+  "main": "build/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucentminds/browser-input-file-list.git"
+  },
+  "keywords": [],
+  "author": "Scott Johnson <scott@lucentminds.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/lucentminds/browser-input-file-list/issues"
+  },
+  "homepage": "https://github.com/lucentminds/browser-input-file-list#readme"
+}
